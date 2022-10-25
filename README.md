@@ -26,3 +26,5 @@ Junto com a minha equipe trabalhando em alta disponibilidade.
  - AWS
  
 ---
+
+![Vitor SIlva](https://komarev.com/ghpvc/?username=vit10load)
