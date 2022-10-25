@@ -19,6 +19,7 @@ Junto com a minha equipe trabalhando em alta disponibilidade.
 ### Trabalho e tenho interesse em:
  
  - JAVA
+ - PYTHON
  - Heroku
  - GitLab
  - Angular JS
