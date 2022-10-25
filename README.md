@@ -18,13 +18,13 @@ Junto com a minha equipe trabalhando em alta disponibilidade.
  
 ### Trabalho e tenho interesse em:
  
- - JAVA
- - PYTHON
+ - Java
+ - Python
  - Heroku
  - GitLab
  - Angular JS
- - API REST
- - AWS
+ - Api Rest
+ - Aws
  
 ---
 
