@@ -12,7 +12,7 @@
  
 Sou **[formado em Sistemas para Internet](https://github.com/vit10load/vit10load/files/9863356/diploma.pdf)** e moro em Coxim/MS :brazil:. Em 2018, ainda na Universidade comecei a estagiar e desenvolver meus primeiros códigos em **PHP e JAVA** com MySQL.
  
-Atualmente trabalho na [AZ tecnologia em gestão](https://www.azi.com.br/) e na maioria do tempo estou **revisando *pull requests*** (em java), **automatizando processos**, **criando soluções** ou ajudando desenvolvedores da equipe. Também gosto muito de codar todo o santo o dia.
+Tenho experiência profissional na [AZ tecnologia em gestão](https://www.azi.com.br/) e na maioria do tempo estou **revisando *pull requests*** (em java), **automatizando processos**, **criando soluções** ou ajudando desenvolvedores da equipe. Também gosto muito de codar todo o santo o dia.
  
 Junto com a minha equipe trabalhando em alta disponibilidade.
  
@@ -20,10 +20,10 @@ Junto com a minha equipe trabalhando em alta disponibilidade.
  
  - Java
  - Python
- - Heroku
- - GitLab
- - Angular JS
- - Api Rest
+ - Angular+
+ - Api REST
+ - Vue JS
+ - React
  - Aws
  
 ---
